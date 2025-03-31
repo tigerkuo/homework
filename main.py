@@ -1,6 +1,7 @@
 from math_op import basic_op, advanced_op
 
 def main():
+    print("完成")
     while True:
         print("\n選擇運算類型:")
         print("1. 加法")
